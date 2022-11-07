@@ -1,0 +1,11 @@
+*{
+    background: hsl(84, 70%, 67%);
+    font-family: Tahoma, Geneva, Verdana, sans-serif
+}
+h1, h2 {
+    padding-left: 200px;
+}
+.info {
+    border: 5px solid rgb(134, 182, 24);
+    border-radius: 5px;
+}
